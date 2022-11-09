@@ -1,0 +1,19 @@
+{
+  "name": "ejercicio-node",
+  "version": "1.0.0",
+  "description": "Este es el primer ejercicio de Node en OpenBootcamp.",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/nahanez22"
+  },
+  "keywords": [
+    "firts node exercise"
+  ],
+  "author": "Nahum añez",
+  "license": "ISC"
+}
